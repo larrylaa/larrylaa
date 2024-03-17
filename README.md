@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Django, Java, ExpressJS, AWS**
 
-- 👨‍💻 All of my projects are available at [larryla.me](larryla.me)
+- 👨‍💻 All of my projects are available at [My Website](https://larryla.me/)  
 
 - 📫 How to reach me **larryquocla@gmail.com**
 
