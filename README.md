@@ -1,7 +1,7 @@
 <h1 align="center">Greetings 👋, I'm Larry</h1>
 <h3 align="center">Sophomore CS Student @ Cal Poly Pomona</h3>
 
-- 🔭 I’m currently working on [CPP SEA Icebreak](https://github.com/cppsea/icebreak)
+- 🔭 I’m currently working on [BitMatch](https://github.com/CPP-BitByBit/BitMatch)
 
 - 🌱 I’m currently learning **React, Django, Java, ExpressJS, AWS**
 
