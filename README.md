@@ -1,5 +1,5 @@
 <h1 align="center">Greetings 👋, I'm Larry</h1>
-<h3 align="center">Sophomore CS Student @ Cal Poly Pomona</h3>
+<h3 align="center">Junior CS Student @ Cal Poly Pomona</h3>
 
 - 🔭 I’m currently working on [BitMatch](https://github.com/CPP-BitByBit/BitMatch)
 
