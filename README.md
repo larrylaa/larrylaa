@@ -1,70 +1,135 @@
-<h1 align="center">Greetings 👋, I'm Larry</h1>
-<h3 align="center">Junior CS Student @ Cal Poly Pomona</h3>
-
-- 🔭 I’m currently working on [BitMatch](https://github.com/CPP-BitByBit/BitMatch)
-
-- 🌱 I’m currently learning **React, Django, Java, ExpressJS, AWS**
-
-- 👨‍💻 All of my projects are available at [My Website](https://larryla.me/)  
-
-- 📫 How to reach me **larryquocla@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lqla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lqla" height="30" width="40" /></a>
+<div align="center">
+<h1>Greetings 👋 I'm Larry</h1>
+<h3>Senior CS Student @ Cal Poly Pomona | Cloud & Full-Stack | AWS Certified (4x)</h3>
+<p>
+  <a href="https://linkedin.com/in/lqla">
+    <img src="https://img.shields.io/badge/LinkedIn-Larry%20La-blue?logo=linkedin" />
+  </a>
+  <a href="https://larryla.me/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green" />
+  </a>
+  <a href="mailto:larryquocla@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <!-- Python -->
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-    <!-- JavaScript -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <!-- HTML -->
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <!-- CSS -->
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <!-- Java -->
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    </a>
-    <!-- Express -->
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-    </a>
-    <!-- React -->
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    </a>
-    <!-- Node.js -->
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    </a>
-    <!-- PostgreSQL -->
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-    </a>
-    <!-- AWS -->
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-    </a>
-    <!-- Git -->
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
+## 💼 Experience
+
+<br/>
+<table border="0" cellpadding="16" cellspacing="0" width="100%">
+  <tr>
+    <td width="100" align="center">
+      <img src="https://raw.githubusercontent.com/larrylaa/Cloud-Hosted-Personal-Website/refs/heads/main/public/assets/img/orace.png" width="72"/>
+    </td>
+    <td align="left">
+      <b>Oracle Cloud Infrastructure</b><br/>
+      <sub>Software Engineer Intern</sub>
+    </td>
+    <td align="right">
+      <sub>May 2026 – Aug 2026</sub>
+    </td>
+  </tr>
+  <tr><td colspan="3" height="8"></td></tr>
+  <tr>
+    <td width="100" align="center">
+      <img src="https://raw.githubusercontent.com/larrylaa/Cloud-Hosted-Personal-Website/refs/heads/main/public/assets/img/statefarm.png" width="72"/>
+    </td>
+    <td align="left">
+      <b>State Farm</b><br/>
+      <sub>Software Engineer Intern</sub>
+    </td>
+    <td align="right">
+      <sub>May 2025 – May 2026</sub>
+    </td>
+  </tr>
+  <tr><td colspan="3" height="8"></td></tr>
+  <tr>
+    <td width="100" align="center">
+      <img src="https://raw.githubusercontent.com/larrylaa/Cloud-Hosted-Personal-Website/refs/heads/main/public/assets/img/calpolypomona.png" width="72"/>
+    </td>
+    <td align="left">
+      <b>Cal Poly Pomona</b><br/>
+      <sub>Web Development Intern</sub>
+    </td>
+    <td align="right">
+      <sub>Aug 2024 – May 2025</sub>
+    </td>
+  </tr>
+  <tr><td colspan="3" height="8"></td></tr>
+  <tr>
+    <td width="100" align="center">
+      <img src="https://raw.githubusercontent.com/larrylaa/Cloud-Hosted-Personal-Website/refs/heads/main/public/assets/img/desco.png" width="72"/>
+    </td>
+    <td align="left">
+      <b>Desco Industries</b><br/>
+      <sub>Software Engineer Intern</sub>
+    </td>
+    <td align="right">
+      <sub>May 2024 – Aug 2024</sub>
+    </td>
+  </tr>
+  <tr><td colspan="3" height="8"></td></tr>
+  <tr>
+    <td width="100" align="center">
+      <img src="https://raw.githubusercontent.com/larrylaa/Cloud-Hosted-Personal-Website/refs/heads/main/public/assets/img/metaltoad.png" width="72"/>
+    </td>
+    <td align="left">
+      <b>Metal Toad</b><br/>
+      <sub>Software Engineer Intern</sub>
+    </td>
+    <td align="right">
+      <sub>Jun 2023 – Sep 2023</sub>
+    </td>
+  </tr>
+</table>
+
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,html,css" />
+
+<br/>
+
+**Frameworks & Libraries**
+
+<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,express,react" />
+
+<br/>
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,githubactions,gitlab" />
+
+<br/>
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,dynamodb,redis" />
+
+## 🚀 Projects
+
+**[BitMatch](https://github.com/CPP-BitByBit/BitMatch)** — Connects innovators with student collaborators
+
+`React` `Django` `PostgreSQL` `Gemini` `AWS` `Terraform` `Docker` `GitHub Actions`
+
+<br/>
+
+**[Icebreak](https://github.com/larrylaa)** — Mobile app for college org engagement
+
+`React Native` `Node.js` `Express` `PostgreSQL` `Redis` `Prisma` `Jest`
+
+
+
+## 🏅 Certifications
+
+<p>
+  <img src="https://raw.githubusercontent.com/larrylaa/Cloud-Hosted-Personal-Website/refs/heads/main/public/assets/img/solutionsarch.png" width="100"/>
+  <img src="https://raw.githubusercontent.com/larrylaa/Cloud-Hosted-Personal-Website/refs/heads/main/public/assets/img/awsdva.png" width="100"/>
+  <img src="https://raw.githubusercontent.com/larrylaa/Cloud-Hosted-Personal-Website/refs/heads/main/public/assets/img/awsai.webp" width="100"/>
+  <img src="https://raw.githubusercontent.com/larrylaa/Cloud-Hosted-Personal-Website/refs/heads/main/public/assets/img/awsccp.png" width="100"/>
+  <img src="https://raw.githubusercontent.com/larrylaa/Cloud-Hosted-Personal-Website/refs/heads/main/public/assets/img/azure-fundamentals.png" width="100"/>
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=larrylaa&show_icons=true&locale=en&layout=compact" alt="larrylaa" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=larrylaa&show_icons=true&locale=en" alt="larrylaa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=larrylaa&" alt="larrylaa" /></p>
+</div>
