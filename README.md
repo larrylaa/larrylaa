@@ -110,25 +110,37 @@
 
 ## 🚀 Projects
 
-**[BitMatch](https://github.com/CPP-BitByBit/BitMatch)** — Connects innovators with student collaborators
+**[BitMatch](https://github.com/CPP-BitByBit/BitMatch)** — A platform designed to bridge the gap between innovators seeking project feedback and college students looking for experience.
 
-`React` `Django` `PostgreSQL` `Gemini` `AWS` `Terraform` `Docker` `GitHub Actions`
+`React` `Django` `PostgreSQL` `Gemini API` `AWS` `Terraform` `Docker` `GitHub Actions`
 
 <br/>
 
-**[Cloud-Hosted Personal Website](https://github.com/larrylaa/Cloud-Hosted-Personal-Website)** — Portfolio website hosted on AWS
+**[Cloud-Hosted Personal Website](https://github.com/larrylaa/Cloud-Hosted-Personal-Website)** — Personal website developed as part of the Cloud Resume Challenge.
 
 `React` `AWS (S3, Cloudfront, Route53, Lambda, DynamoDB, SES)` `Terraform` `GitHub Actions`
 
 <br/>
 
-**[Icebreak](https://github.com/cppsea/icebreak)** — Mobile app for college org engagement
+**[Icebreak](https://github.com/cppsea/icebreak)** — A platform for college organizations to interact with their members.
 
 `React Native` `Node.js` `Express` `PostgreSQL` `Redis` `Prisma` `Jest`
 
 <br/>
 
-**[Adulti](https://www.youtube.com/shorts/Q_PLvavLq_8)** —  Personal finance mobile app that helps early-career adults understand where their money stands and what to do next
+**[PyRater](https://github.com/larrylaa/PyRater)** — A Python application that uses the Google Gemini API to rate resumes and provide feedback.
+
+`Python` `Supabase` `Gemini API`
+
+<br/>
+
+**[Wilderness Survival System](https://www.youtube.com/watch?v=HgmiXkZ5jRo)** —  2D wilderness survival maze game built in Java following OOP design principles.
+
+`Java` `Object-Oriented Design`
+
+<br/>
+
+**[Adulti](https://www.youtube.com/shorts/Q_PLvavLq_8)** —  Personal finance mobile app that helps early-career adults understand where their money stands and what to do next.
 
 `Flutter` `Firebase`
 
