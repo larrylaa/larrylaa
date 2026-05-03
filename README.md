@@ -116,11 +116,21 @@
 
 <br/>
 
-**[Icebreak](https://github.com/larrylaa)** — Mobile app for college org engagement
+**[Cloud-Hosted Personal Website](https://github.com/larrylaa/Cloud-Hosted-Personal-Website)** — Portfolio website hosted on AWS
+
+`React` `AWS (S3, Cloudfront, Route53, Lambda, DynamoDB, SES)` `Terraform` `GitHub Actions`
+
+<br/>
+
+**[Icebreak](https://github.com/cppsea/icebreak)** — Mobile app for college org engagement
 
 `React Native` `Node.js` `Express` `PostgreSQL` `Redis` `Prisma` `Jest`
 
+<br/>
 
+**[Adulti](https://www.youtube.com/shorts/Q_PLvavLq_8)** —  Personal finance mobile app that helps early-career adults understand where their money stands and what to do next
+
+`Flutter` `Firebase`
 
 ## 🏅 Certifications
 
